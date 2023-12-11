@@ -1,0 +1,16 @@
+{
+    "name": "String Length Counter",
+    "short_name": "StrCounter",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#7239B3",
+    "theme_color": "#7239B3",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/rocket.svg",
+            "type": "image/svg+xml",
+            "sizes": "any"
+        }
+    ]
+}
